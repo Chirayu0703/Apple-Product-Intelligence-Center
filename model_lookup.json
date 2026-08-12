@@ -1,0 +1,281 @@
+[
+  {
+    "Model_Name": "Apple Watch Series 6 (44mm)",
+    "category": "Watch",
+    "launch_date": "2020-09-19",
+    "launch_price_inr": 42042,
+    "launch_price_usd": 429,
+    "avg_rating": 4.5,
+    "avg_reviews": 3668
+  },
+  {
+    "Model_Name": "iPhone 12 Pro 128GB",
+    "category": "iPhone",
+    "launch_date": "2020-10-23",
+    "launch_price_inr": 97902,
+    "launch_price_usd": 999,
+    "avg_rating": 4.4,
+    "avg_reviews": 3723
+  },
+  {
+    "Model_Name": "iPhone 12 64GB",
+    "category": "iPhone",
+    "launch_date": "2020-10-23",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.5,
+    "avg_reviews": 3667
+  },
+  {
+    "Model_Name": "iPad Air (4th Gen) 64GB",
+    "category": "iPad",
+    "launch_date": "2020-10-23",
+    "launch_price_inr": 58702,
+    "launch_price_usd": 599,
+    "avg_rating": 4.4,
+    "avg_reviews": 3590
+  },
+  {
+    "Model_Name": "MacBook Air M1 256GB",
+    "category": "Mac",
+    "launch_date": "2020-11-17",
+    "launch_price_inr": 97902,
+    "launch_price_usd": 999,
+    "avg_rating": 4.4,
+    "avg_reviews": 3689
+  },
+  {
+    "Model_Name": "iPad Pro 11-inch (M1) 128GB",
+    "category": "iPad",
+    "launch_date": "2021-05-22",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.5,
+    "avg_reviews": 3294
+  },
+  {
+    "Model_Name": "iPhone 13 Pro Max 256GB",
+    "category": "iPhone",
+    "launch_date": "2021-09-24",
+    "launch_price_inr": 117502,
+    "launch_price_usd": 1199,
+    "avg_rating": 4.4,
+    "avg_reviews": 2993
+  },
+  {
+    "Model_Name": "iPhone 13 128GB",
+    "category": "iPhone",
+    "launch_date": "2021-09-24",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.5,
+    "avg_reviews": 3041
+  },
+  {
+    "Model_Name": "iPad (9th Gen) 64GB",
+    "category": "iPad",
+    "launch_date": "2021-09-25",
+    "launch_price_inr": 32242,
+    "launch_price_usd": 329,
+    "avg_rating": 4.5,
+    "avg_reviews": 3087
+  },
+  {
+    "Model_Name": "Apple Watch Series 7 (45mm)",
+    "category": "Watch",
+    "launch_date": "2021-10-15",
+    "launch_price_inr": 42042,
+    "launch_price_usd": 429,
+    "avg_rating": 4.4,
+    "avg_reviews": 3080
+  },
+  {
+    "Model_Name": "MacBook Pro 14-inch M1 Pro 512GB",
+    "category": "Mac",
+    "launch_date": "2021-10-26",
+    "launch_price_inr": 195902,
+    "launch_price_usd": 1999,
+    "avg_rating": 4.4,
+    "avg_reviews": 3025
+  },
+  {
+    "Model_Name": "iPad Air (5th Gen) 64GB",
+    "category": "iPad",
+    "launch_date": "2022-03-18",
+    "launch_price_inr": 58702,
+    "launch_price_usd": 599,
+    "avg_rating": 4.5,
+    "avg_reviews": 2871
+  },
+  {
+    "Model_Name": "MacBook Air M2 256GB",
+    "category": "Mac",
+    "launch_date": "2022-07-15",
+    "launch_price_inr": 117502,
+    "launch_price_usd": 1199,
+    "avg_rating": 4.4,
+    "avg_reviews": 2590
+  },
+  {
+    "Model_Name": "iPhone 14 Pro 128GB",
+    "category": "iPhone",
+    "launch_date": "2022-09-16",
+    "launch_price_inr": 97902,
+    "launch_price_usd": 999,
+    "avg_rating": 4.5,
+    "avg_reviews": 2523
+  },
+  {
+    "Model_Name": "iPhone 14 128GB",
+    "category": "iPhone",
+    "launch_date": "2022-09-16",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.5,
+    "avg_reviews": 2497
+  },
+  {
+    "Model_Name": "Apple Watch Series 8 (45mm)",
+    "category": "Watch",
+    "launch_date": "2022-09-16",
+    "launch_price_inr": 42042,
+    "launch_price_usd": 429,
+    "avg_rating": 4.5,
+    "avg_reviews": 2469
+  },
+  {
+    "Model_Name": "Apple Watch Ultra",
+    "category": "Watch",
+    "launch_date": "2022-09-23",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.5,
+    "avg_reviews": 2483
+  },
+  {
+    "Model_Name": "iPad Pro 12.9-inch (M2) 256GB",
+    "category": "iPad",
+    "launch_date": "2022-10-26",
+    "launch_price_inr": 117502,
+    "launch_price_usd": 1199,
+    "avg_rating": 4.5,
+    "avg_reviews": 2496
+  },
+  {
+    "Model_Name": "MacBook Pro 14-inch M2 Pro 512GB",
+    "category": "Mac",
+    "launch_date": "2023-01-24",
+    "launch_price_inr": 195902,
+    "launch_price_usd": 1999,
+    "avg_rating": 4.4,
+    "avg_reviews": 2238
+  },
+  {
+    "Model_Name": "iPhone 15 Pro Max 256GB",
+    "category": "iPhone",
+    "launch_date": "2023-09-22",
+    "launch_price_inr": 117502,
+    "launch_price_usd": 1199,
+    "avg_rating": 4.4,
+    "avg_reviews": 1822
+  },
+  {
+    "Model_Name": "Apple Watch Series 9 (45mm)",
+    "category": "Watch",
+    "launch_date": "2023-09-22",
+    "launch_price_inr": 42042,
+    "launch_price_usd": 429,
+    "avg_rating": 4.4,
+    "avg_reviews": 1834
+  },
+  {
+    "Model_Name": "iPhone 15 128GB",
+    "category": "iPhone",
+    "launch_date": "2023-09-22",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.4,
+    "avg_reviews": 1872
+  },
+  {
+    "Model_Name": "Apple Watch Ultra 2",
+    "category": "Watch",
+    "launch_date": "2023-09-22",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.4,
+    "avg_reviews": 1847
+  },
+  {
+    "Model_Name": "MacBook Pro 14-inch M3 Pro 512GB",
+    "category": "Mac",
+    "launch_date": "2023-11-07",
+    "launch_price_inr": 195902,
+    "launch_price_usd": 1999,
+    "avg_rating": 4.5,
+    "avg_reviews": 1782
+  },
+  {
+    "Model_Name": "MacBook Air M3 256GB",
+    "category": "Mac",
+    "launch_date": "2024-03-08",
+    "launch_price_inr": 107702,
+    "launch_price_usd": 1099,
+    "avg_rating": 4.5,
+    "avg_reviews": 1566
+  },
+  {
+    "Model_Name": "iPad Pro 11-inch (M4) 256GB",
+    "category": "iPad",
+    "launch_date": "2024-05-15",
+    "launch_price_inr": 97902,
+    "launch_price_usd": 999,
+    "avg_rating": 4.4,
+    "avg_reviews": 1449
+  },
+  {
+    "Model_Name": "iPhone 16 128GB",
+    "category": "iPhone",
+    "launch_date": "2024-09-20",
+    "launch_price_inr": 78302,
+    "launch_price_usd": 799,
+    "avg_rating": 4.5,
+    "avg_reviews": 1207
+  },
+  {
+    "Model_Name": "iPhone 16 Pro 256GB",
+    "category": "iPhone",
+    "launch_date": "2024-09-20",
+    "launch_price_inr": 107702,
+    "launch_price_usd": 1099,
+    "avg_rating": 4.4,
+    "avg_reviews": 1216
+  },
+  {
+    "Model_Name": "Apple Watch Series X (45mm)",
+    "category": "Watch",
+    "launch_date": "2024-09-21",
+    "launch_price_inr": 42042,
+    "launch_price_usd": 429,
+    "avg_rating": 4.4,
+    "avg_reviews": 1224
+  },
+  {
+    "Model_Name": "MacBook Pro 14-inch M4 Pro 512GB",
+    "category": "Mac",
+    "launch_date": "2024-11-08",
+    "launch_price_inr": 195902,
+    "launch_price_usd": 1999,
+    "avg_rating": 4.5,
+    "avg_reviews": 1141
+  },
+  {
+    "Model_Name": "iPhone 17 128GB",
+    "category": "iPhone",
+    "launch_date": "2025-09-19",
+    "launch_price_inr": 83202,
+    "launch_price_usd": 849,
+    "avg_rating": 4.5,
+    "avg_reviews": 598
+  }
+]
