@@ -5,14 +5,29 @@ plotly
 joblib
 pillow
 python-dotenv
+
+# LangChain
 langchain
 langchain-core
 langchain-qdrant
 langchain-huggingface
 langchain-google-genai
+
+# Qdrant
 qdrant-client
+
+# Embeddings / ML
 sentence-transformers
+transformers
 huggingface-hub
+torch
+torchvision
+
+# Google Gemini
 google-genai
+
+# ML / model loading
 scikit-learn
+
+# Excel
 openpyxl
