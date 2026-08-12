@@ -10,3 +10,4 @@ __pycache__/
 *.pyo
 
 .vscode
+xgb_price_model.joblib
