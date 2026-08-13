@@ -28,6 +28,6 @@ google-genai
 
 # ML / model loading
 scikit-learn
-
+xgboost 
 # Excel
 openpyxl
