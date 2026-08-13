@@ -1,4 +1,4 @@
-# 🍎 Apple Product Intelligence Center
+# Apple Product Intelligence Center
 
 An end-to-end AI-powered analytics platform for Apple product pricing intelligence, built using **Streamlit, XGBoost, LangChain, Google Gemini, and Qdrant Vector Database**.
 
